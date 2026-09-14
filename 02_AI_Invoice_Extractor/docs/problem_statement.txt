@@ -1,0 +1,7 @@
+Project: AI Invoice Extractor
+
+Problem Statement:
+Manual invoice data entry is time-consuming.
+
+Solution Statement:
+Extract vendor, amount, date, GST and invoice details automatically.
